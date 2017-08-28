@@ -1,0 +1,70 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,scene1_jpg,scene_1_jpg,scene_2_jpg,scene_4_jpg,scene_5_jpg,scene_6_jpg,scene_7_jpg,scene_8_jpg,scene_3_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "scene1_jpg",
+			"type": "image",
+			"url": "assets/scene1.jpg"
+		},
+		{
+			"name": "scene_1_jpg",
+			"type": "image",
+			"url": "assets/scene_1.jpg"
+		},
+		{
+			"name": "scene_2_jpg",
+			"type": "image",
+			"url": "assets/scene_2.jpg"
+		},
+		{
+			"name": "scene_4_jpg",
+			"type": "image",
+			"url": "assets/scene_4.jpg"
+		},
+		{
+			"name": "scene_5_jpg",
+			"type": "image",
+			"url": "assets/scene_5.jpg"
+		},
+		{
+			"name": "scene_6_jpg",
+			"type": "image",
+			"url": "assets/scene_6.jpg"
+		},
+		{
+			"name": "scene_7_jpg",
+			"type": "image",
+			"url": "assets/scene_7.jpg"
+		},
+		{
+			"name": "scene_8_jpg",
+			"type": "image",
+			"url": "assets/scene_8.jpg"
+		},
+		{
+			"name": "scene_3_jpg",
+			"type": "image",
+			"url": "assets/scene_3.jpg"
+		}
+	]
+}

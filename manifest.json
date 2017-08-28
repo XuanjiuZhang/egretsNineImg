@@ -1,0 +1,18 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/res/res.js",
+		"libs/modules/tween/tween.js",
+		"lodash_lib/bin/lodash_lib.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/ImgBlock.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/MainContainer.js",
+		"bin-debug/NineImgContainer.js"
+	]
+}
